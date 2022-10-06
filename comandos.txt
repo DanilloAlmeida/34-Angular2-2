@@ -1,0 +1,19 @@
+comandos:
+npm install
+
+
+npm i -g @angular/cli
+ng new gatitobook --strict
+	yes
+	css
+npm install --save-dev prettier
+npm install --save-dev tslint-config-prettier
+npm install --save-dev tslint-plugin-prettier	
+npm i bootstrap font-awesome
+
+criando módulos
+ng generate module home --routing
+ng g component home
+ng g c home/login
+
+ng serve --o 		compila e abre o browser 
